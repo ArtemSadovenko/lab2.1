@@ -19,9 +19,9 @@ int main(){
 		cout << "not avalable" << endl;
 	}
 	z1 = ((((a + 2) / (sqrt(2 * a))) - (a / (sqrt(2 * a) + 2)) + (2 / (a - sqrt(2 * a)))) * ((sqrt(a) - sqrt(2)) / (a + 2)));
-	//z2 = (1 / (sqrt(a) + sqrt(2)));
+	z2 = (1 / (sqrt(a) + sqrt(2)));
 	
 		cout << z1 << endl;
-		//cout << z2 << endl;
+		cout << z2 << endl;
 	return 0;
 }
