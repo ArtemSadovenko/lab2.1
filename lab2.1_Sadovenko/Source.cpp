@@ -23,5 +23,6 @@ int main(){
 	
 		cout << z1 << endl;
 		cout << z2 << endl;
+		cout << "tie" << endl;
 	return 0;
 }
